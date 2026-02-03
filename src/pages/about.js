@@ -49,14 +49,14 @@ const about = () => {
               <p className='font-medium'>
                 Hi, I&apos;m Ayman Mohammad, a Computer Information Systems and Technology student at The University of Texas 
                 at Dallas (UTD) with a strong foundation in computer science fundamentals developed during my high school years. 
-                I have a deep interest in Machine Learning, Cybersecurity, Research, and Data Analytics.
+                I have a deep interest in Machine Learning, Cyber, Research, and Data Analytics.
               </p>
               <h2 className='mb-4 mt-6 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Cybersecurity</h2>
               <p className='font-medium'>
                 I&apos;m especially drawn to cybersecurity—understanding how to protect systems, secure data, and stay ahead of threats is something I enjoy learning and applying.
               </p>
               <ul className='my-2 ml-4 list-disc font-medium space-y-1'>
-                <li>Securing systems and protecting sensitive data</li>
+                <li>Securing systems </li>
                 <li>Learning about threat detection and prevention</li>
                 <li>Staying current with security best practices</li>
               </ul>

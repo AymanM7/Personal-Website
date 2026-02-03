@@ -37,7 +37,7 @@ const about = () => {
     <>
       <Head>
         <title>Ayman Mohammad | About</title>
-        <meta name="description" content="Learn more about Ayman Mohammad - CIS student at UT Dallas with a passion for ML/AI, research, web development, and data analytics." />
+        <meta name="description" content="Learn more about Ayman Mohammad - CIS student at UT Dallas with a passion for ML/AI, cybersecurity, research, web development, and data analytics." />
       </Head>
       <TransitionEffect />
       <main className='flex w-full flex-col items-center justify-center dark:text-light'>
@@ -51,6 +51,15 @@ const about = () => {
                 at Dallas (UTD) with a strong foundation in computer science fundamentals developed during my high school years. 
                 I have a deep interest in Machine Learning, Cybersecurity, Research, and Data Analytics.
               </p>
+              <h2 className='mb-4 mt-6 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Cybersecurity</h2>
+              <p className='font-medium'>
+                I&apos;m especially drawn to cybersecurity—understanding how to protect systems, secure data, and stay ahead of threats is something I enjoy learning and applying.
+              </p>
+              <ul className='my-2 ml-4 list-disc font-medium space-y-1'>
+                <li>Securing systems and protecting sensitive data</li>
+                <li>Learning about threat detection and prevention</li>
+                <li>Staying current with security best practices</li>
+              </ul>
               <p className='my-4 font-medium'>
                 I love exploring how data, intelligent systems, and thoughtful design can come together to solve real world problems. 
                 My passions span across Research, Troubleshooting, and Data Analytics. Whether I&apos;m building ML/AI powered applications, 

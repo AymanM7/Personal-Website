@@ -49,11 +49,11 @@ const about = () => {
               <p className='font-medium'>
                 Hi, I&apos;m Ayman Mohammad, a Computer Information Systems and Technology student at The University of Texas 
                 at Dallas (UTD) with a strong foundation in computer science fundamentals developed during my high school years. 
-                I have a deep interest in Machine Learning, Artificial Intelligence, Research, and Data Analytics.
+                I have a deep interest in Machine Learning, Cybersecurity, Research, and Data Analytics.
               </p>
               <p className='my-4 font-medium'>
                 I love exploring how data, intelligent systems, and thoughtful design can come together to solve real world problems. 
-                My passions span across Research, Web Development, and Data Analytics. Whether I&apos;m building ML/AI powered applications, 
+                My passions span across Research, Troubleshooting, and Data Analytics. Whether I&apos;m building ML/AI powered applications, 
                 turning raw data into clear, actionable insights, or developing impactful web experiences, I bring dedication and 
                 curiosity to every project.
               </p>
